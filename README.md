@@ -6,7 +6,7 @@ This project is part of the Web Authoring course where students complete weekly 
 ## Assignment Details
 - **Objective:** Create a simple HTML page about yourself using the provided instructions.
 - **Technologies Used:** HTML (no CSS, images, or JavaScript except what is required in the instructions).
-- **File:** `test.html`
+- **File:** `index.html`
   
 ## Purpose of the Project
 The main purpose of this project is to help students become familiar with web authoring concepts, including:
@@ -18,7 +18,7 @@ The main purpose of this project is to help students become familiar with web au
 - **test.html:** Contains the HTML code for the page about me.
 
 ## How to View
-To view the page, clone or download this repository and open the `test.html` file in a web browser. You will be able to see how it appears to the public, simulating the real-world experience of posting content online.
+To view the page, clone or download this repository and open the `index.html` file in a web browser. You will be able to see how it appears to the public, simulating the real-world experience of posting content online.
 
 ## Conclusion
 This project marks an important step in mastering the process of web development, particularly in creating a simple yet functional web page. I look forward to continuing to refine my web development skills throughout the course.
