@@ -1,0 +1,59 @@
+/*  #b9936c  soft brown
+    #dac292  light brown
+    #e6e2d3  light sandpaper
+    #c4b7a6  khaiki */
+
+    .khaiki {
+        color: #c4b7a6;
+    }
+
+    a:link { color:#564029 };
+    a:visited { color: #564029};
+    a:hover { color: #2e271f};
+    a:active { color: #2e271f};
+
+    header {
+        color: #dac292;
+        background-color: #c4b7a6;
+    }
+
+    section {
+        background-color: #e6e2d3;
+    }
+
+    main {
+        background-color: #e6e2d3;
+        margin: 0 auto 0 auto;
+    }
+
+    nav {
+        background-color: #c4b7a6;
+    }
+
+    footer {
+        background-color: #c4b7a6;
+    }
+
+    h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: 800;
+        color: #564029;
+    }
+
+    h2 {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 700;
+        color: #564029;
+    }
+
+    h3, h4, h5, h6 {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight:600;
+        color: #564029;
+    }
+
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        color: #453421;
+    }
