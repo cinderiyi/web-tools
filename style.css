@@ -13,21 +13,18 @@
     a:active { color: #2e271f};
 
     header {
-        color: #dac292;
         background-color: #c4b7a6;
     }
 
-    section {
+    body {
         background-color: #e6e2d3;
-    }
-
-    main {
-        background-color: #e6e2d3;
-        margin: 0 auto 0 auto;
     }
 
     nav {
         background-color: #c4b7a6;
+        width: auto;
+        height: auto;
+    
     }
 
     footer {
