@@ -3,8 +3,13 @@
     #e6e2d3  light sandpaper
     #c4b7a6  khaiki */
 
-    .khaiki {
-        color: #c4b7a6;
+
+
+    #pop {
+        border: 1px solid; 
+        border-radius: 10px;
+        box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.7);
+        text-shadow: 2px 2px 3px #dac292;
     }
 
     a:link { color:#564029 };
@@ -24,7 +29,8 @@
         background-color: #c4b7a6;
         width: auto;
         height: auto;
-    
+        border: 1px solid;
+        border-radius: 4px;
     }
 
     footer {
@@ -32,6 +38,7 @@
     }
 
     h1 {
+        font-size: clamp(2rem, 2vw, 3.5rem);
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-weight: 800;
         color: #564029;
