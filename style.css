@@ -3,14 +3,14 @@
     #e6e2d3  light sandpaper
     #c4b7a6  khaiki */
 
+    @import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
 
-
-    #pop {
-        border: 1px solid; 
-        border-radius: 10px;
-        box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.7);
-        text-shadow: 2px 2px 3px #dac292;
-    }
+#pop {
+    border: 1px solid; 
+    border-radius: 10px;
+    box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.7);
+    text-shadow: 2px 2px 3px #dac292;
+}
 
     a:link { color:#564029 };
     a:visited { color: #564029};
@@ -45,8 +45,9 @@
     }
 
     h2 {
-        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        font-weight: 700;
+        font-family: "Tagesschrift", system-ui;
+        font-weight: 400;
+        font-style: normal;
         color: #564029;
     }
 
